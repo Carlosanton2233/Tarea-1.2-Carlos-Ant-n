@@ -26,5 +26,16 @@
 <p> link sirve para enlazar un archivo externo</p>
 <h2>Etiqueta meta</h2>
 <p> meta sirve para proporcionar información sobre el documento HTML</p>
+<h2>Etiqueta col</h2>
+<p> col sirve para definir columnas en una tabla</p>
+<table border="1">
+        <colgroup>
+            <col class="columna-destacada">
+        </colgroup>
+        <tr>
+            <td>Texto 1</td>
+            <td>Texto 2</td>
+        </tr>
+    </table>
 </body>
 </html>
