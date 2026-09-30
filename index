@@ -10,6 +10,8 @@
 <h2>Etiqueta br</h2>
 <p> br sirve para partir una línea en 2</p>
 <p> primera línea <br> segunda línea</p>
-
+<h2>Etiqueta hr</h2>
+<p> hr sirve para crear una línea horizontal</p>
+<hr>
 </body>
 </html>
