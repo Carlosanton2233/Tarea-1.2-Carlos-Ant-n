@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tarea 1.2 - Etiquetas de autocierre en HTML5</title>
     <link rel="stylesheet" href="styles.css">
+    <meta name="description" content="Página de ejemplo sobre etiquetas de autocierre en HTML5">
 </head>
 <body>
 <h1>Etiquetas de autocierre by Carlos</h1>
@@ -23,5 +24,7 @@
 <input type="checkbox"> Acepto los términos y condiciones
 <h2>Etiqueta link</h2>
 <p> link sirve para enlazar un archivo externo</p>
+<h2>Etiqueta meta</h2>
+<p> meta sirve para proporcionar información sobre el documento HTML</p>
 </body>
 </html>
