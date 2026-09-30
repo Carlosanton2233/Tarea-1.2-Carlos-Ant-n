@@ -16,5 +16,9 @@
 <h2>Etiqueta img</h2>
 <p> img sirve para insertar una imagen</p>
 <img src="imagen.png" alt="Imagen de ejemplo">
+<h2>Etiqueta input</h2>
+<p> input sirve para crear un campo de entrada de datos</p>
+<input type="text" placeholder="Hola">
+<input type="checkbox"> Acepto los términos y condiciones
 </body>
 </html>
