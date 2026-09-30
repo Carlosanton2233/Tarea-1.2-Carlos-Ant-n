@@ -45,6 +45,10 @@
 <object>
         <param name="test" value="1">
     </object>
-
+<h2>Etiqueta source</h2>
+<p> source sirve para especificar múltiples recursos de medios para elementos de audio y video</p>
+<audio controls>
+    <source src="sonido.mp3">
+</audio>
 </body>
 </html>
