@@ -37,5 +37,8 @@
             <td>Texto 2</td>
         </tr>
     </table>
+    <h2>Etiqueta embed</h2>
+    <p> embed sirve para incrustar contenido multimedia</p>
+    <embed src="actividades programacion.pdf">
 </body>
 </html>
