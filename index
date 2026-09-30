@@ -50,5 +50,8 @@
 <audio controls>
     <source src="sonido.mp3">
 </audio>
+<h2>Etiqueta wbr</h2>
+<p> wbr sirve para forzar un salto de línea en un punto específico</p>
+<p>Supercalifragilistico<wbr>espialidoso</p>
 </body>
 </html>
