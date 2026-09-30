@@ -40,5 +40,11 @@
     <h2>Etiqueta embed</h2>
     <p> embed sirve para incrustar contenido multimedia</p>
     <embed src="actividades programacion.pdf">
+<h2>Etiqueta param</h2>
+<p> param sirve para definir parámetros para un objeto incrustado</p>
+<object>
+        <param name="test" value="1">
+    </object>
+
 </body>
 </html>
