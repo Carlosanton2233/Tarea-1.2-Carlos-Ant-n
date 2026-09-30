@@ -13,5 +13,8 @@
 <h2>Etiqueta hr</h2>
 <p> hr sirve para crear una línea horizontal</p>
 <hr>
+<h2>Etiqueta img</h2>
+<p> img sirve para insertar una imagen</p>
+<img src="imagen.png" alt="Imagen de ejemplo">
 </body>
 </html>
