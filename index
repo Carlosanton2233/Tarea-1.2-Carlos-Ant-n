@@ -6,6 +6,10 @@
     <title>Tarea 1.2 - Etiquetas de autocierre en HTML5</title>
 </head>
 <body>
-    <h1>Etiquetas de autocierre by Carlos</h1>
+<h1>Etiquetas de autocierre by Carlos</h1>
+<h2>Etiqueta br</h2>
+<p> br sirve para partir una línea en 2</p>
+<p> primera línea <br> segunda línea</p>
+
 </body>
 </html>
