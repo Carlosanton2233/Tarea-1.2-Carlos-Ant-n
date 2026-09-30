@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tarea 1.2 - Etiquetas de autocierre en HTML5</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <h1>Etiquetas de autocierre by Carlos</h1>
@@ -20,5 +21,7 @@
 <p> input sirve para crear un campo de entrada de datos</p>
 <input type="text" placeholder="Hola">
 <input type="checkbox"> Acepto los términos y condiciones
+<h2>Etiqueta link</h2>
+<p> link sirve para enlazar un archivo externo</p>
 </body>
 </html>
